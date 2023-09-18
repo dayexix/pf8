@@ -1,0 +1,76 @@
+body {
+  
+}
+header {
+  
+}
+header .wrap {
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 15px 20px;
+}
+header .wrap h1{
+  
+}
+header .wrap h1 a{
+  background-image: url(../img/icon.png);
+  width: 108px;
+  height: 36px;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 0;
+}
+header .wrap nav {
+  
+}
+header .wrap nav ul.gnb {
+  margin-right: 80px;
+}
+header .wrap nav ul.gnb li {
+  font-size: 18px;
+  margin-right: 30px;
+  font-weight: 700;
+  line-height: 2.2;
+
+}
+header .wrap nav ul.gnb li a{
+  color: #272b30;
+}
+header .wrap .butt {
+  
+}
+header .wrap .butt form {
+  
+}
+header .wrap .butt form input {
+  color: #46494D;
+  width: 16.8rem;
+  background-color: #F3F3F6;
+  border: none;
+  border-radius: 0.6rem;
+  line-height: 2;
+  font-size: 16px;
+  padding: 4px 10px;
+  margin-right: 5px;
+}
+header .wrap .butt form button {
+  line-height: 2;
+  background-color: transparent;
+  border: 1px solid #DBDDE0;
+  font-size: 15px;
+  padding: 4px 20px;
+  border-radius: 0.6rem;
+  font-weight: 700;
+}
+header .wrap .butt form button:hover{
+  color: #868B94;
+  background-color: #F2F3F6;
+}
+
+
+
+
+
+

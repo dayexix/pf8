@@ -1,0 +1,152 @@
+footer {
+  width: 100%;
+  border-top: 2px solid #EAEBEE;
+}
+footer .wrap {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+footer .wrap .fnb {
+  
+}
+footer .wrap .fnb ul {
+  
+  line-height: 2.4;
+  font-size: 14px;
+}
+footer .wrap .fnb ul li {
+  margin: 20px;
+}
+footer .wrap .fnb ul li a {
+  
+}
+footer .wrap .fnb ul li a:hover{
+  text-decoration: underline;
+}
+footer .wrap .fnb .button {
+  
+  margin-left: 60px;
+}
+footer .wrap .fnb .button h2 {
+  
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 2;
+}
+footer .wrap .fnb .button .buttonlogo {
+  
+}
+footer .wrap .fnb .button .buttonlogo a {
+  background-color: #F2F3F6;
+  line-height: 3;
+  display: inline-block;
+  width: 147px;
+  height: 44px;
+  border-radius: 10px;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 44px;
+  font-weight: 700;
+  font-size: 15px;
+}
+footer .wrap .fnb .button .buttonlogo a:hover{
+  background-color: #f7f8fa;
+}
+footer .wrap .fnb .button .buttonlogo a img {
+  width: 26px;
+  height: 26px;
+  vertical-align: -7px;
+}
+footer .wrap .fnb .button .buttonlogo a span {
+  
+}
+footer .wrap .fnb1 {
+  
+  padding: 20px;
+  border-top: 1px solid #EAEBEE;
+}
+footer .wrap .fnb1 .fnb2 {
+  
+}
+footer .wrap .fnb1 .fnb2 address {
+  font-weight: 700;
+  color: #868B94;
+  font-size: 13px;
+  line-height: 1.4;
+}
+footer .wrap .fnb1 .fnb2 address span{
+  font-weight: 500;
+}
+footer .wrap .fnb1 .fnb2 address span.ad1{
+  display: inline-block;
+  position: relative;
+  padding-right: 10px;
+}
+footer .wrap .fnb1 .fnb2 address span.ad1::after{
+  content:"";
+  background-image: url(../img/line_svg.gif);
+  display: block;
+  width: 2px;
+  height: 12px;
+  position: absolute;
+  top: 3px;
+  right: 0;
+  margin-right: 2px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+footer .wrap .fnb1 .fnb2 ul.app {
+  
+}
+footer .wrap .fnb1 .fnb2 ul.app li {
+  
+}
+footer .wrap .fnb1 .fnb2 ul.app li a {
+  
+}
+footer .wrap .fnb1 .fnb3 {
+  
+}
+footer .wrap .fnb1 .fnb3 h2 {
+  
+}
+footer .wrap .fnb1 .fnb3 ul.list1 {
+  margin: 10px 0;
+}
+footer .wrap .fnb1 .fnb3 ul.list1 li {
+  
+}
+footer .wrap .fnb1 .fnb3 ul.list1 li a {
+  color: #868B94;
+  font-size: 13px;
+  font-weight: 700;
+  margin-right: 25px;
+}
+footer .wrap .fnb1 .fnb3 ul.list1 li a:hover{
+  
+  text-decoration: underline;
+}
+footer .wrap .fnb1 .fnb3 ul.list2 {
+  
+}
+footer .wrap .fnb1 .fnb3 ul.list2 li {
+  
+}
+footer .wrap .fnb1 .fnb3 ul.list2 li a {
+  color: #868B94;
+  font-size: 13px;
+  font-weight: 700;
+  margin-right: 25px;
+}
+footer .wrap .fnb1 .fnb3 ul.list2 li a.info{
+  
+  color: #212529;
+}
+footer .wrap .fnb1 .fnb3 ul.list2 li a:hover{
+  
+  text-decoration: underline;
+}
+
+
+
